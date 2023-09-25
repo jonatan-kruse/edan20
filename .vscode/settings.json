@@ -1,3 +1,11 @@
 {
-  "cSpell.words": ["bigrams", "loglikelihood", "logloss", "probs", "unigram"]
+  "cSpell.words": [
+    "bigrams",
+    "loglikelihood",
+    "logloss",
+    "ngram",
+    "ngrams",
+    "probs",
+    "unigram"
+  ]
 }
